@@ -1,0 +1,8 @@
+1. mongosh   //to open mongodb shell
+2. show dbs  //to view all database
+3. use <db name>     //to switch into  relevent database
+4. show collections   //to show all collections in database
+
+CRUD
+
+1.create one 
